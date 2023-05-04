@@ -1,5 +1,7 @@
 <img align="right" alt="Coding" width="800" src="https://media.giphy.com/media/jOpLbiGmHR9S0/giphy.gif">
 
+<br>
+
 - 👋 Hi, I’m @hoseinmrh
 - 👀 I’m interested in graphic and computer
 - 🌱 I’m currently learning AI.
