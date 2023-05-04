@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/jOpLbiGmHR9S0/giphy.gif">
+<img align="right" alt="Coding" width="800" src="https://media.giphy.com/media/jOpLbiGmHR9S0/giphy.gif">
 
 - 👋 Hi, I’m @hoseinmrh
 - 👀 I’m interested in graphic and computer
