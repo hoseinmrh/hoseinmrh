@@ -1,6 +1,5 @@
-<img align="right" alt="Coding" width="800" src="https://media.giphy.com/media/jOpLbiGmHR9S0/giphy.gif">
 
-<br>
+
 
 - 👋 Hi, I’m @hoseinmrh
 - 👀 I’m interested in graphic and computer
@@ -14,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoseinmrh&show_icons=true&theme=dracula)
 
+<img align="right" alt="Coding" width="800" src="https://media.giphy.com/media/jOpLbiGmHR9S0/giphy.gif">
