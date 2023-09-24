@@ -15,5 +15,4 @@
 
 ## GitHub Stats
 ![Hosein Mirhoseini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoseinmrh&hide_border=true&theme=dracula)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinmrh&hide_border=true&layout=donut&theme=dracula)
 
