@@ -3,9 +3,9 @@
 </p>
 
 # About Me
-- **Computer Engineering** undergraduate student at Shiraz University
-- Enthusiastic in **Algorithms, AI and Everything**
-- Also love **Sleeping**
+- **Bachelor of Science in Computer Engineering** from Shiraz University
+- Enthusiast in **Algorithms, AI and Back-end developement**
+- Also in love with **Sleeping**
 
 
 ## Contact Me
